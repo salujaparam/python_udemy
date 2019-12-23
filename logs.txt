@@ -1,0 +1,12 @@
+2019-10-23 13:29:26,481 INFO     [logs.py:9] This will not show up.
+2019-10-23 13:29:26,481 WARNING  [logs.py:10] this will.
+2019-10-23 13:29:26,481 DEBUG    [logs.py:11] This is debug message
+2019-10-23 13:29:26,481 CRITICAL [logs.py:12] This is critical
+2019-10-23 13:30:24,561 INFO     [logs.py:9] This will not show up.
+2019-10-23 13:30:24,561 WARNING  [logs.py:10] this will.
+2019-10-23 13:30:24,561 DEBUG    [logs.py:11] This is debug message
+2019-10-23 13:30:24,561 CRITICAL [logs.py:12] This is critical
+23-10-2019 13:32:58 INFO     [logs.py:10] This will not show up.
+23-10-2019 13:32:58 WARNING  [logs.py:11] this will.
+23-10-2019 13:32:58 DEBUG    [logs.py:12] This is debug message
+23-10-2019 13:32:58 CRITICAL [logs.py:13] This is critical
